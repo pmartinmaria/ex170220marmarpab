@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f637810e.chunk.css",
+    "main.js": "/static/js/main.7c8c001e.chunk.js",
+    "main.js.map": "/static/js/main.7c8c001e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.da462894.js",
+    "runtime-main.js.map": "/static/js/runtime-main.da462894.js.map",
+    "static/js/2.09eaf68a.chunk.js": "/static/js/2.09eaf68a.chunk.js",
+    "static/js/2.09eaf68a.chunk.js.map": "/static/js/2.09eaf68a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f0a649bac400641b3b17fe18fa72c0f7.js": "/precache-manifest.f0a649bac400641b3b17fe18fa72c0f7.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.f637810e.chunk.css.map": "/static/css/main.f637810e.chunk.css.map",
+    "static/js/2.09eaf68a.chunk.js.LICENSE.txt": "/static/js/2.09eaf68a.chunk.js.LICENSE.txt",
+    "static/media/Paisaje1.jpg": "/static/media/Paisaje1.7e3ac7fa.jpg",
+    "static/media/Paisaje2.jpg": "/static/media/Paisaje2.e9ef8e42.jpg",
+    "static/media/Paisaje3.jpg": "/static/media/Paisaje3.620d5e0e.jpg",
+    "static/media/Paisaje4.jpg": "/static/media/Paisaje4.b02dd1b6.jpg",
+    "static/media/Paisaje5.jpg": "/static/media/Paisaje5.12287c7f.jpg",
+    "static/media/Paisaje6.jpg": "/static/media/Paisaje6.1b7a1f30.jpg",
+    "static/media/Paisaje7.jpg": "/static/media/Paisaje7.e8755a16.jpg",
+    "static/media/Paisaje8.jpg": "/static/media/Paisaje8.184df79e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da462894.js",
+    "static/js/2.09eaf68a.chunk.js",
+    "static/css/main.f637810e.chunk.css",
+    "static/js/main.7c8c001e.chunk.js"
+  ]
+}
